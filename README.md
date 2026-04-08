@@ -1,4 +1,4 @@
-<img width="1536" height="1024" alt="IdentityStoreLogo" src="https://github.com/user-attachments/assets/9b0cd329-77a1-49e5-b052-8aa5d7e3dbd9" />
+<img width="1281" height="439" alt="IdentityStoreLogo" src="https://github.com/user-attachments/assets/3a942335-168b-4a23-8c69-17fc6783fa89" />
 
 ---
 
