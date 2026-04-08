@@ -32,7 +32,7 @@ body {
 }
 
 header img {
-  width: 180px;
+  width: auto;
   height: auto;
   margin-bottom: 1rem;
   transition: transform 0.8s ease;
