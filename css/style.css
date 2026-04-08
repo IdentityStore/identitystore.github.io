@@ -51,7 +51,7 @@ h1 {
 
 p.slogan {
   font-size: 1.1rem;
-  color: var(--accent);
+  color: var(--text-color);
   margin-bottom: 3rem;
 }
 
